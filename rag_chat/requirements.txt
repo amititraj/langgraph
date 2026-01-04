@@ -1,0 +1,12 @@
+gradio
+pydantic
+pydantic_settings
+loguru
+langchain
+docling
+langchain_community
+langchain_openai
+chromadb
+bm25
+rank_bm25
+langgraph

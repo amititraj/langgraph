@@ -1,0 +1,6 @@
+gradio
+pydantic
+pydantic_settings
+langgraph
+langchain_openai
+langchain_community
